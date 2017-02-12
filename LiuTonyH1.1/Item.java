@@ -5,12 +5,13 @@ public class Item
   
   public String getName()
   {
-    name = "hai";
+    name = "Something";
     return name;
   }
   
   public int getWeight()
   {
+    weight = 10;
     return weight;
   }
   

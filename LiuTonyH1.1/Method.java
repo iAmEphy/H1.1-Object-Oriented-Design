@@ -10,5 +10,8 @@ public class Method
     Item portable = new Item();
     
     System.out.println(portable.getName());
+    System.out.println(portable.getWeight());
+    
+    
   }
 }
