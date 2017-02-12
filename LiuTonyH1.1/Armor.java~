@@ -6,19 +6,16 @@ public class Armor extends Item
   
   public int getDefense()
   {
-    defense = 0;
     return defense;
   }
   
   public String getName()
   {
-    name = "white";
     return name;
   }
   
   public int getWeight()
   {
-    weight = 101;
     return weight;
   }
   

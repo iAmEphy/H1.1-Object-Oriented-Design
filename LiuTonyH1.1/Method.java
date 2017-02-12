@@ -23,7 +23,12 @@ public class Method
     System.out.println();
     
     Armor black = new Armor();
+    System.out.println(black.getDefense());
+    System.out.println(black.getName());
+    System.out.println(black.getWeight());
     
+    
+    System.out.println();
     
     
     Food apple = new Food();
