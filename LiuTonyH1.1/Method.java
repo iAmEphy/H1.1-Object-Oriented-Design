@@ -32,6 +32,10 @@ public class Method
     
     
     Food apple = new Food();
+    System.out.println(apple.getNutrition());
+    System.out.println(apple.getQuantity());
+    System.out.println(apple.getWeight());
+    System.out.println(apple.getName());
     
   }
 }
