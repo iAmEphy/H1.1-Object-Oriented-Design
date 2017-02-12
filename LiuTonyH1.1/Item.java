@@ -5,6 +5,7 @@ public class Item
   
   public String getName()
   {
+    name = "hai";
     return name;
   }
   
