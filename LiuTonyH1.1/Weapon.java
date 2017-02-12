@@ -6,16 +6,19 @@ public class Weapon extends Item
   
   public int getDamage()
   {
+    damage = 1;
     return damage;
   }
   
   public String getName()
   {
+    name = "Red";
     return name;
   }
   
   public int getWeight()
   {
+    weight = 11;
     return weight;
   }
   
